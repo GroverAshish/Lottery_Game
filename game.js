@@ -29,9 +29,6 @@ function check()
         <h2>Sorry your number doesnot match with ${random_num}</h2>
         <h2>Try Again!!!</h2>
         `
-        user_num.value="";
-        user_num.focus();
-        console.log("Ashish")
     }
 
 }
